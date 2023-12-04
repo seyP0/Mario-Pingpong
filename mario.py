@@ -1,7 +1,3 @@
-# Pygame 1.3 - Adding images, text, and sound
-# Se Yeon Bark
-# Nov 22 2022 
-
 import pygame, sys, random
 from pygame.locals import *
 import math
